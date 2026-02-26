@@ -1,0 +1,225 @@
+polyA_n10 {
+
+write_once("Data Masses") { 
+@atom:A  100
+@atom:AL  100
+} 
+
+write("Data Atoms") { 
+$atom:1 $mol:. @atom:AL 0 0 0 0
+$atom:2 $mol:. @atom:AL 0 0 0 0
+$atom:3 $mol:. @atom:A 0 0 0 0
+$atom:4 $mol:. @atom:AL 0 0 0 0
+$atom:5 $mol:. @atom:AL 0 0 0 0
+$atom:6 $mol:. @atom:A 0 0 0 0
+$atom:7 $mol:. @atom:AL 0 0 0 0
+$atom:8 $mol:. @atom:AL 0 0 0 0
+$atom:9 $mol:. @atom:AL 0 0 0 0
+$atom:10 $mol:. @atom:A 0 0 0 0
+$atom:11 $mol:. @atom:AL 0 0 0 0
+$atom:12 $mol:. @atom:AL 0 0 0 0
+$atom:13 $mol:. @atom:A 0 0 0 0
+$atom:14 $mol:. @atom:AL 0 0 0 0
+$atom:15 $mol:. @atom:AL 0 0 0 0
+$atom:16 $mol:. @atom:AL 0 0 0 0
+$atom:17 $mol:. @atom:A 0 0 0 0
+$atom:18 $mol:. @atom:AL 0 0 0 0
+$atom:19 $mol:. @atom:AL 0 0 0 0
+$atom:20 $mol:. @atom:A 0 0 0 0
+$atom:21 $mol:. @atom:AL 0 0 0 0
+$atom:22 $mol:. @atom:AL 0 0 0 0
+$atom:23 $mol:. @atom:AL 0 0 0 0
+$atom:24 $mol:. @atom:A 0 0 0 0
+$atom:25 $mol:. @atom:AL 0 0 0 0
+$atom:26 $mol:. @atom:AL 0 0 0 0
+$atom:27 $mol:. @atom:A 0 0 0 0
+$atom:28 $mol:. @atom:AL 0 0 0 0
+$atom:29 $mol:. @atom:AL 0 0 0 0
+$atom:30 $mol:. @atom:AL 0 0 0 0
+$atom:31 $mol:. @atom:A 0 0 0 0
+$atom:32 $mol:. @atom:AL 0 0 0 0
+$atom:33 $mol:. @atom:AL 0 0 0 0
+$atom:34 $mol:. @atom:A 0 0 0 0
+$atom:35 $mol:. @atom:AL 0 0 0 0
+$atom:36 $mol:. @atom:AL 0 0 0 0
+$atom:37 $mol:. @atom:AL 0 0 0 0
+$atom:38 $mol:. @atom:A 0 0 0 0
+$atom:39 $mol:. @atom:AL 0 0 0 0
+$atom:40 $mol:. @atom:AL 0 0 0 0
+$atom:41 $mol:. @atom:A 0 0 0 0
+$atom:42 $mol:. @atom:AL 0 0 0 0
+$atom:43 $mol:. @atom:AL 0 0 0 0
+$atom:44 $mol:. @atom:AL 0 0 0 0
+$atom:45 $mol:. @atom:A 0 0 0 0
+$atom:46 $mol:. @atom:AL 0 0 0 0
+$atom:47 $mol:. @atom:AL 0 0 0 0
+$atom:48 $mol:. @atom:A 0 0 0 0
+$atom:49 $mol:. @atom:AL 0 0 0 0
+$atom:50 $mol:. @atom:AL 0 0 0 0
+$atom:51 $mol:. @atom:AL 0 0 0 0
+$atom:52 $mol:. @atom:A 0 0 0 0
+$atom:53 $mol:. @atom:AL 0 0 0 0
+$atom:54 $mol:. @atom:AL 0 0 0 0
+$atom:55 $mol:. @atom:A 0 0 0 0
+$atom:56 $mol:. @atom:AL 0 0 0 0
+$atom:57 $mol:. @atom:AL 0 0 0 0
+$atom:58 $mol:. @atom:AL 0 0 0 0
+$atom:59 $mol:. @atom:A 0 0 0 0
+$atom:60 $mol:. @atom:AL 0 0 0 0
+$atom:61 $mol:. @atom:AL 0 0 0 0
+$atom:62 $mol:. @atom:A 0 0 0 0
+$atom:63 $mol:. @atom:AL 0 0 0 0
+$atom:64 $mol:. @atom:AL 0 0 0 0
+$atom:65 $mol:. @atom:AL 0 0 0 0
+$atom:66 $mol:. @atom:A 0 0 0 0
+$atom:67 $mol:. @atom:AL 0 0 0 0
+$atom:68 $mol:. @atom:AL 0 0 0 0
+$atom:69 $mol:. @atom:A 0 0 0 0
+$atom:70 $mol:. @atom:AL 0 0 0 0
+} 
+
+write("Data Bonds") { 
+$bond:b1    @bond:Bond   $atom:1  $atom:2
+$bond:b2    @bond:Bond   $atom:2  $atom:3
+$bond:b3    @bond:Bond   $atom:3  $atom:4
+$bond:b4    @bond:Bond   $atom:4  $atom:5
+$bond:b5    @bond:Bond   $atom:5  $atom:6
+$bond:b6    @bond:Bond   $atom:6  $atom:7
+$bond:b7    @bond:Bond   $atom:7  $atom:8
+$bond:b8    @bond:Bond   $atom:8  $atom:9
+$bond:b9    @bond:Bond   $atom:9  $atom:10
+$bond:b10    @bond:Bond   $atom:10  $atom:11
+$bond:b11    @bond:Bond   $atom:11  $atom:12
+$bond:b12    @bond:Bond   $atom:12  $atom:13
+$bond:b13    @bond:Bond   $atom:13  $atom:14
+$bond:b14    @bond:Bond   $atom:14  $atom:15
+$bond:b15    @bond:Bond   $atom:15  $atom:16
+$bond:b16    @bond:Bond   $atom:16  $atom:17
+$bond:b17    @bond:Bond   $atom:17  $atom:18
+$bond:b18    @bond:Bond   $atom:18  $atom:19
+$bond:b19    @bond:Bond   $atom:19  $atom:20
+$bond:b20    @bond:Bond   $atom:20  $atom:21
+$bond:b21    @bond:Bond   $atom:21  $atom:22
+$bond:b22    @bond:Bond   $atom:22  $atom:23
+$bond:b23    @bond:Bond   $atom:23  $atom:24
+$bond:b24    @bond:Bond   $atom:24  $atom:25
+$bond:b25    @bond:Bond   $atom:25  $atom:26
+$bond:b26    @bond:Bond   $atom:26  $atom:27
+$bond:b27    @bond:Bond   $atom:27  $atom:28
+$bond:b28    @bond:Bond   $atom:28  $atom:29
+$bond:b29    @bond:Bond   $atom:29  $atom:30
+$bond:b30    @bond:Bond   $atom:30  $atom:31
+$bond:b31    @bond:Bond   $atom:31  $atom:32
+$bond:b32    @bond:Bond   $atom:32  $atom:33
+$bond:b33    @bond:Bond   $atom:33  $atom:34
+$bond:b34    @bond:Bond   $atom:34  $atom:35
+$bond:b35    @bond:Bond   $atom:35  $atom:36
+$bond:b36    @bond:Bond   $atom:36  $atom:37
+$bond:b37    @bond:Bond   $atom:37  $atom:38
+$bond:b38    @bond:Bond   $atom:38  $atom:39
+$bond:b39    @bond:Bond   $atom:39  $atom:40
+$bond:b40    @bond:Bond   $atom:40  $atom:41
+$bond:b41    @bond:Bond   $atom:41  $atom:42
+$bond:b42    @bond:Bond   $atom:42  $atom:43
+$bond:b43    @bond:Bond   $atom:43  $atom:44
+$bond:b44    @bond:Bond   $atom:44  $atom:45
+$bond:b45    @bond:Bond   $atom:45  $atom:46
+$bond:b46    @bond:Bond   $atom:46  $atom:47
+$bond:b47    @bond:Bond   $atom:47  $atom:48
+$bond:b48    @bond:Bond   $atom:48  $atom:49
+$bond:b49    @bond:Bond   $atom:49  $atom:50
+$bond:b50    @bond:Bond   $atom:50  $atom:51
+$bond:b51    @bond:Bond   $atom:51  $atom:52
+$bond:b52    @bond:Bond   $atom:52  $atom:53
+$bond:b53    @bond:Bond   $atom:53  $atom:54
+$bond:b54    @bond:Bond   $atom:54  $atom:55
+$bond:b55    @bond:Bond   $atom:55  $atom:56
+$bond:b56    @bond:Bond   $atom:56  $atom:57
+$bond:b57    @bond:Bond   $atom:57  $atom:58
+$bond:b58    @bond:Bond   $atom:58  $atom:59
+$bond:b59    @bond:Bond   $atom:59  $atom:60
+$bond:b60    @bond:Bond   $atom:60  $atom:61
+$bond:b61    @bond:Bond   $atom:61  $atom:62
+$bond:b62    @bond:Bond   $atom:62  $atom:63
+$bond:b63    @bond:Bond   $atom:63  $atom:64
+$bond:b64    @bond:Bond   $atom:64  $atom:65
+$bond:b65    @bond:Bond   $atom:65  $atom:66
+$bond:b66    @bond:Bond   $atom:66  $atom:67
+$bond:b67    @bond:Bond   $atom:67  $atom:68
+$bond:b68    @bond:Bond   $atom:68  $atom:69
+$bond:b69    @bond:Bond   $atom:69  $atom:70
+} 
+
+write("Data Angles") { 
+$angle:a1    @angle:Angle   $atom:1  $atom:2  $atom:3
+$angle:a2    @angle:Angle   $atom:2  $atom:3  $atom:4
+$angle:a3    @angle:Angle   $atom:3  $atom:4  $atom:5
+$angle:a4    @angle:Angle   $atom:4  $atom:5  $atom:6
+$angle:a5    @angle:Angle   $atom:5  $atom:6  $atom:7
+$angle:a6    @angle:Angle   $atom:6  $atom:7  $atom:8
+$angle:a7    @angle:Angle   $atom:7  $atom:8  $atom:9
+$angle:a8    @angle:Angle   $atom:8  $atom:9  $atom:10
+$angle:a9    @angle:Angle   $atom:9  $atom:10  $atom:11
+$angle:a10    @angle:Angle   $atom:10  $atom:11  $atom:12
+$angle:a11    @angle:Angle   $atom:11  $atom:12  $atom:13
+$angle:a12    @angle:Angle   $atom:12  $atom:13  $atom:14
+$angle:a13    @angle:Angle   $atom:13  $atom:14  $atom:15
+$angle:a14    @angle:Angle   $atom:14  $atom:15  $atom:16
+$angle:a15    @angle:Angle   $atom:15  $atom:16  $atom:17
+$angle:a16    @angle:Angle   $atom:16  $atom:17  $atom:18
+$angle:a17    @angle:Angle   $atom:17  $atom:18  $atom:19
+$angle:a18    @angle:Angle   $atom:18  $atom:19  $atom:20
+$angle:a19    @angle:Angle   $atom:19  $atom:20  $atom:21
+$angle:a20    @angle:Angle   $atom:20  $atom:21  $atom:22
+$angle:a21    @angle:Angle   $atom:21  $atom:22  $atom:23
+$angle:a22    @angle:Angle   $atom:22  $atom:23  $atom:24
+$angle:a23    @angle:Angle   $atom:23  $atom:24  $atom:25
+$angle:a24    @angle:Angle   $atom:24  $atom:25  $atom:26
+$angle:a25    @angle:Angle   $atom:25  $atom:26  $atom:27
+$angle:a26    @angle:Angle   $atom:26  $atom:27  $atom:28
+$angle:a27    @angle:Angle   $atom:27  $atom:28  $atom:29
+$angle:a28    @angle:Angle   $atom:28  $atom:29  $atom:30
+$angle:a29    @angle:Angle   $atom:29  $atom:30  $atom:31
+$angle:a30    @angle:Angle   $atom:30  $atom:31  $atom:32
+$angle:a31    @angle:Angle   $atom:31  $atom:32  $atom:33
+$angle:a32    @angle:Angle   $atom:32  $atom:33  $atom:34
+$angle:a33    @angle:Angle   $atom:33  $atom:34  $atom:35
+$angle:a34    @angle:Angle   $atom:34  $atom:35  $atom:36
+$angle:a35    @angle:Angle   $atom:35  $atom:36  $atom:37
+$angle:a36    @angle:Angle   $atom:36  $atom:37  $atom:38
+$angle:a37    @angle:Angle   $atom:37  $atom:38  $atom:39
+$angle:a38    @angle:Angle   $atom:38  $atom:39  $atom:40
+$angle:a39    @angle:Angle   $atom:39  $atom:40  $atom:41
+$angle:a40    @angle:Angle   $atom:40  $atom:41  $atom:42
+$angle:a41    @angle:Angle   $atom:41  $atom:42  $atom:43
+$angle:a42    @angle:Angle   $atom:42  $atom:43  $atom:44
+$angle:a43    @angle:Angle   $atom:43  $atom:44  $atom:45
+$angle:a44    @angle:Angle   $atom:44  $atom:45  $atom:46
+$angle:a45    @angle:Angle   $atom:45  $atom:46  $atom:47
+$angle:a46    @angle:Angle   $atom:46  $atom:47  $atom:48
+$angle:a47    @angle:Angle   $atom:47  $atom:48  $atom:49
+$angle:a48    @angle:Angle   $atom:48  $atom:49  $atom:50
+$angle:a49    @angle:Angle   $atom:49  $atom:50  $atom:51
+$angle:a50    @angle:Angle   $atom:50  $atom:51  $atom:52
+$angle:a51    @angle:Angle   $atom:51  $atom:52  $atom:53
+$angle:a52    @angle:Angle   $atom:52  $atom:53  $atom:54
+$angle:a53    @angle:Angle   $atom:53  $atom:54  $atom:55
+$angle:a54    @angle:Angle   $atom:54  $atom:55  $atom:56
+$angle:a55    @angle:Angle   $atom:55  $atom:56  $atom:57
+$angle:a56    @angle:Angle   $atom:56  $atom:57  $atom:58
+$angle:a57    @angle:Angle   $atom:57  $atom:58  $atom:59
+$angle:a58    @angle:Angle   $atom:58  $atom:59  $atom:60
+$angle:a59    @angle:Angle   $atom:59  $atom:60  $atom:61
+$angle:a60    @angle:Angle   $atom:60  $atom:61  $atom:62
+$angle:a61    @angle:Angle   $atom:61  $atom:62  $atom:63
+$angle:a62    @angle:Angle   $atom:62  $atom:63  $atom:64
+$angle:a63    @angle:Angle   $atom:63  $atom:64  $atom:65
+$angle:a64    @angle:Angle   $atom:64  $atom:65  $atom:66
+$angle:a65    @angle:Angle   $atom:65  $atom:66  $atom:67
+$angle:a66    @angle:Angle   $atom:66  $atom:67  $atom:68
+$angle:a67    @angle:Angle   $atom:67  $atom:68  $atom:69
+$angle:a68    @angle:Angle   $atom:68  $atom:69  $atom:70
+} 
+
+} 
+#polyA_n10

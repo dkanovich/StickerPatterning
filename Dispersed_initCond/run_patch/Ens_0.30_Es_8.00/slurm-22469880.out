@@ -1,0 +1,1356 @@
+Current file is final_state_Run1.restart
+final_state_Run1.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15756 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164279 secs
+  read_restart CPU = 0.205776 secs
+Current file is final_state_Run2.restart
+final_state_Run2.DATA
+srun: Step created for StepId=22469880.1
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15754 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0166477 secs
+  read_restart CPU = 0.25011 secs
+Current file is final_state_Run3.restart
+final_state_Run3.DATA
+srun: Step created for StepId=22469880.2
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15737 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0152565 secs
+  read_restart CPU = 0.251524 secs
+Current file is final_state_Run4.restart
+final_state_Run4.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15759 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164489 secs
+  read_restart CPU = 0.199453 secs
+Current file is final_state_Run5.restart
+final_state_Run5.DATA
+srun: Step created for StepId=22469880.4
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15756 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0168322 secs
+  read_restart CPU = 1.21326 secs
+Current file is Run1_tp_100000000.restart
+Run1_tp_100000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15685 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0177963 secs
+  read_restart CPU = 0.239474 secs
+Current file is Run1_tp_150000000.restart
+Run1_tp_150000000.DATA
+srun: Step created for StepId=22469880.6
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15710 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0169121 secs
+  read_restart CPU = 0.973511 secs
+Current file is Run1_tp_200000000.restart
+Run1_tp_200000000.DATA
+srun: Step created for StepId=22469880.7
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15718 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0161301 secs
+  read_restart CPU = 0.160979 secs
+Current file is Run1_tp_250000000.restart
+Run1_tp_250000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15730 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0172146 secs
+  read_restart CPU = 0.19387 secs
+Current file is Run1_tp_300000000.restart
+Run1_tp_300000000.DATA
+srun: Step created for StepId=22469880.9
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15747 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0153429 secs
+  read_restart CPU = 0.846419 secs
+Current file is Run1_tp_350000000.restart
+Run1_tp_350000000.DATA
+srun: Step created for StepId=22469880.10
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15741 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0163045 secs
+  read_restart CPU = 0.326401 secs
+Current file is Run1_tp_400000000.restart
+Run1_tp_400000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15751 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0154563 secs
+  read_restart CPU = 0.265215 secs
+Current file is Run1_tp_450000000.restart
+Run1_tp_450000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15751 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0169308 secs
+  read_restart CPU = 0.19507 secs
+Current file is Run1_tp_500000000.restart
+Run1_tp_500000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15756 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0160702 secs
+  read_restart CPU = 0.479695 secs
+Current file is Run1_tp_50000000.restart
+Run1_tp_50000000.DATA
+srun: Step created for StepId=22469880.14
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15634 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0153669 secs
+  read_restart CPU = 0.250741 secs
+Current file is Run2_tp_100000000.restart
+Run2_tp_100000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15703 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0163367 secs
+  read_restart CPU = 0.269359 secs
+Current file is Run2_tp_150000000.restart
+Run2_tp_150000000.DATA
+srun: Step created for StepId=22469880.16
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15733 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164956 secs
+  read_restart CPU = 1.84328 secs
+Current file is Run2_tp_200000000.restart
+Run2_tp_200000000.DATA
+srun: Step created for StepId=22469880.17
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15734 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0152928 secs
+  read_restart CPU = 0.914457 secs
+Current file is Run2_tp_250000000.restart
+Run2_tp_250000000.DATA
+srun: Step created for StepId=22469880.18
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15741 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.016492 secs
+  read_restart CPU = 0.195309 secs
+Current file is Run2_tp_300000000.restart
+Run2_tp_300000000.DATA
+srun: Step created for StepId=22469880.19
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15752 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164118 secs
+  read_restart CPU = 0.252649 secs
+Current file is Run2_tp_350000000.restart
+Run2_tp_350000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15747 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0169282 secs
+  read_restart CPU = 0.251247 secs
+Current file is Run2_tp_400000000.restart
+Run2_tp_400000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15744 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0162662 secs
+  read_restart CPU = 0.266035 secs
+Current file is Run2_tp_450000000.restart
+Run2_tp_450000000.DATA
+srun: Step created for StepId=22469880.22
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15753 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0156376 secs
+  read_restart CPU = 1.47976 secs
+Current file is Run2_tp_500000000.restart
+Run2_tp_500000000.DATA
+srun: Step created for StepId=22469880.23
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15754 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164522 secs
+  read_restart CPU = 0.226859 secs
+Current file is Run2_tp_50000000.restart
+Run2_tp_50000000.DATA
+srun: Step created for StepId=22469880.24
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15635 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0158255 secs
+  read_restart CPU = 1.84522 secs
+Current file is Run3_tp_100000000.restart
+Run3_tp_100000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15697 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0146068 secs
+  read_restart CPU = 1.37788 secs
+Current file is Run3_tp_150000000.restart
+Run3_tp_150000000.DATA
+srun: Step created for StepId=22469880.26
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15719 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0156911 secs
+  read_restart CPU = 1.66645 secs
+Current file is Run3_tp_200000000.restart
+Run3_tp_200000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15732 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.014856 secs
+  read_restart CPU = 0.179129 secs
+Current file is Run3_tp_250000000.restart
+Run3_tp_250000000.DATA
+srun: Step created for StepId=22469880.28
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15732 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0152707 secs
+  read_restart CPU = 1.34828 secs
+Current file is Run3_tp_300000000.restart
+Run3_tp_300000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15740 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0176372 secs
+  read_restart CPU = 0.661925 secs
+Current file is Run3_tp_350000000.restart
+Run3_tp_350000000.DATA
+srun: Step created for StepId=22469880.30
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15738 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164721 secs
+  read_restart CPU = 0.281087 secs
+Current file is Run3_tp_400000000.restart
+Run3_tp_400000000.DATA
+srun: Step created for StepId=22469880.31
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15748 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0169048 secs
+  read_restart CPU = 0.810015 secs
+Current file is Run3_tp_450000000.restart
+Run3_tp_450000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15740 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.017023 secs
+  read_restart CPU = 0.277639 secs
+Current file is Run3_tp_500000000.restart
+Run3_tp_500000000.DATA
+srun: Step created for StepId=22469880.33
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15737 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0169276 secs
+  read_restart CPU = 0.191498 secs
+Current file is Run3_tp_50000000.restart
+Run3_tp_50000000.DATA
+srun: Step created for StepId=22469880.34
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15609 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0166525 secs
+  read_restart CPU = 1.5862 secs
+Current file is Run4_tp_100000000.restart
+Run4_tp_100000000.DATA
+srun: Step created for StepId=22469880.35
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15692 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0174215 secs
+  read_restart CPU = 0.219094 secs
+Current file is Run4_tp_150000000.restart
+Run4_tp_150000000.DATA
+srun: Step created for StepId=22469880.36
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15718 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.017122 secs
+  read_restart CPU = 1.41862 secs
+Current file is Run4_tp_200000000.restart
+Run4_tp_200000000.DATA
+srun: Step created for StepId=22469880.37
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15732 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0165218 secs
+  read_restart CPU = 0.19363 secs
+Current file is Run4_tp_250000000.restart
+Run4_tp_250000000.DATA
+srun: Step created for StepId=22469880.38
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15739 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0170449 secs
+  read_restart CPU = 0.232272 secs
+Current file is Run4_tp_300000000.restart
+Run4_tp_300000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15751 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0158723 secs
+  read_restart CPU = 0.200915 secs
+Current file is Run4_tp_350000000.restart
+Run4_tp_350000000.DATA
+srun: Step created for StepId=22469880.40
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15756 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0150636 secs
+  read_restart CPU = 0.20684 secs
+Current file is Run4_tp_400000000.restart
+Run4_tp_400000000.DATA
+srun: Step created for StepId=22469880.41
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15760 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0173861 secs
+  read_restart CPU = 0.292166 secs
+Current file is Run4_tp_450000000.restart
+Run4_tp_450000000.DATA
+srun: Step created for StepId=22469880.42
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15761 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0171916 secs
+  read_restart CPU = 1.24364 secs
+Current file is Run4_tp_500000000.restart
+Run4_tp_500000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15759 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0150994 secs
+  read_restart CPU = 0.33275 secs
+Current file is Run4_tp_50000000.restart
+Run4_tp_50000000.DATA
+srun: Step created for StepId=22469880.44
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15624 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0151485 secs
+  read_restart CPU = 0.183724 secs
+Current file is Run5_tp_100000000.restart
+Run5_tp_100000000.DATA
+srun: Step created for StepId=22469880.45
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15715 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.015165 secs
+  read_restart CPU = 0.422852 secs
+Current file is Run5_tp_150000000.restart
+Run5_tp_150000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15732 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0149786 secs
+  read_restart CPU = 0.320613 secs
+Current file is Run5_tp_200000000.restart
+Run5_tp_200000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15750 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0161951 secs
+  read_restart CPU = 0.250078 secs
+Current file is Run5_tp_250000000.restart
+Run5_tp_250000000.DATA
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15747 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0163212 secs
+  read_restart CPU = 0.256012 secs
+Current file is Run5_tp_300000000.restart
+Run5_tp_300000000.DATA
+srun: Step created for StepId=22469880.49
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15748 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0165929 secs
+  read_restart CPU = 0.20824 secs
+Current file is Run5_tp_350000000.restart
+Run5_tp_350000000.DATA
+srun: Step created for StepId=22469880.50
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15760 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.016908 secs
+  read_restart CPU = 0.220736 secs
+Current file is Run5_tp_400000000.restart
+Run5_tp_400000000.DATA
+srun: Step created for StepId=22469880.51
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15761 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0154372 secs
+  read_restart CPU = 0.186972 secs
+Current file is Run5_tp_450000000.restart
+Run5_tp_450000000.DATA
+srun: Step created for StepId=22469880.52
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15749 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0164479 secs
+  read_restart CPU = 0.169028 secs
+Current file is Run5_tp_500000000.restart
+Run5_tp_500000000.DATA
+srun: Step created for StepId=22469880.53
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15756 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0186771 secs
+  read_restart CPU = 0.567959 secs
+Current file is Run5_tp_50000000.restart
+Run5_tp_50000000.DATA
+srun: Step created for StepId=22469880.54
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+WARNING: Restart file used different # of processors (../read_restart.cpp:740)
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  1 by 1 by 1 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15678 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   1          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  6 = max # of 1-3 neighbors
+  17 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.0183618 secs
+  read_restart CPU = 0.149537 secs

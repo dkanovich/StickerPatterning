@@ -1,0 +1,9 @@
+LAMMPS (5 Jun 2019)
+variable T equal 310
+
+variable seed equal 89882
+
+variable fName string Run1_ext
+
+log ${fName}.log
+log Run1_ext.log

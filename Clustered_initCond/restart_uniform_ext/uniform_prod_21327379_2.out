@@ -1,0 +1,105 @@
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+  restart file = 5 Jun 2019, LAMMPS = 5 Jun 2019
+  restoring atom style full from restart
+  orthogonal box = (-420 -420 -420) to (420 420 420)
+  2 by 2 by 7 MPI processor grid
+  restoring pair style lj/cut from restart
+  restoring bond style hybrid from restart
+  restoring angle style cosine from restart
+  14000 atoms
+  15416 bonds
+  13600 angles
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   0          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  4 = max # of 1-3 neighbors
+  8 = max # of 1-4 neighbors
+  56 = max # of special neighbors
+  special bonds CPU = 0.614953 secs
+  read_restart CPU = 0.851384 secs
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:   0          1          1         
+  special bond factors coul: 0          0          0         
+  3 = max # of 1-2 neighbors
+  4 = max # of 1-3 neighbors
+  8 = max # of 1-4 neighbors
+  40128 = # of 1-3 neighbors before angle trim
+  27200 = # of 1-3 neighbors after angle trim
+  56 = max # of special neighbors
+  special bonds CPU = 0.00249783 secs
+Neighbor list info ...
+  update every 1 steps, delay 1 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 26.9
+  ghost atom cutoff = 26.9
+  binsize = 13.45, bins = 63 63 63
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair lj/cut, perpetual
+      attributes: half, newton on
+      pair build: half/bin/newton
+      stencil: half/bin/3d/newton
+      bin: standard
+Setting up Verlet run ...
+  Unit style    : real
+  Current step  : 400000000
+  Time step     : 0.1
+Per MPI rank memory allocation (min/avg/max) = 1.103 | 7.731 | 16.64 Mbytes
+Step Temp E_pair E_mol TotEng Press 
+400000000    307.89002   -3818.1784    7243.1253    16272.692  -0.10315906 
+400010000    308.65336   -3787.0255    7091.3308    16183.904  0.089725087 
+Loop time of 4.19637 on 28 procs for 10000 steps with 14000 atoms
+
+Performance: 20.589 ns/day, 1.166 hours/ns, 2383.011 timesteps/s
+99.6% CPU use with 28 MPI tasks x no OpenMP threads
+
+MPI task timing breakdown:
+Section |  min time  |  avg time  |  max time  |%varavg| %total
+---------------------------------------------------------------
+Pair    | 0.00032909 | 0.50607    | 2.0543     |  91.8 | 12.06
+Bond    | 0.00054016 | 0.11174    | 0.40666    |  39.4 |  2.66
+Neigh   | 0.014126   | 0.01498    | 0.016617   |   0.8 |  0.36
+Comm    | 0.0019064  | 1.2622     | 2.5628     |  77.7 | 30.08
+Output  | 9.6721e-05 | 0.00034467 | 0.00064813 |   0.0 |  0.01
+Modify  | 0.00097393 | 0.24419    | 0.88303    |  58.0 |  5.82
+Other   |            | 2.057      |            |       | 49.02
+
+Nlocal:    500 ave 1846 max 0 min
+Histogram: 16 0 1 1 1 4 2 0 2 1
+Nghost:    554.321 ave 1694 max 0 min
+Histogram: 10 5 1 0 1 3 4 1 2 1
+Neighs:    6807.18 ave 25901 max 0 min
+Histogram: 16 0 1 1 3 3 1 0 1 2
+
+Total # of neighbors = 190601
+Ave neighs/atom = 13.6144
+Ave special neighs/atom = 7.88271
+Neighbor list builds = 7
+Dangerous builds = 0
+4000 atoms in group rxnSites
+Neighbor list info ...
+  update every 1 steps, delay 1 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 26.9
+  ghost atom cutoff = 26.9
+  binsize = 13.45, bins = 63 63 63
+  2 neighbor lists, perpetual/occasional/extra = 1 1 0
+  (1) pair lj/cut, perpetual
+      attributes: half, newton on
+      pair build: half/bin/newton
+      stencil: half/bin/3d/newton
+      bin: standard
+  (2) fix bond/create/random, occasional, copy from (1)
+      attributes: half, newton on
+      pair build: copy
+      stencil: none
+      bin: none
+Setting up Verlet run ...
+  Unit style    : real
+  Current step  : 0
+  Time step     : 25
+Per MPI rank memory allocation (min/avg/max) = 17.8 | 18.29 | 19.25 Mbytes
+Step E_pair PotEng KinEng E_bond E_angle Temp Bonds 
+       0   -3787.0255    3304.3053    12879.598   -1098.6769    8190.0078    308.65336    15416 
+ 1000000   -3694.2733    3608.3311    12714.106   -972.16249    8274.7669    304.68742    15389 

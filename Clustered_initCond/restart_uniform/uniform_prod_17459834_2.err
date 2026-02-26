@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 17626644.0 ON holy8a26105 CANCELLED AT 2025-05-30T02:30:36 ***
+srun: error: holy8a26107: task 7: Killed
+srun: error: holy8a26209: task 25: Killed
+srun: error: holy8a26210: tasks 26-27: Killed
+srun: error: holy8a26105: task 0: Exited with exit code 1
+srun: error: holy8a26105: tasks 1-6: Killed
+srun: error: holy8a26201: tasks 8-16: Killed
+srun: error: holy8a26202: tasks 17-23: Killed
+srun: error: holy8a26207: task 24: Killed

@@ -1,0 +1,106 @@
+Task 98 ⇒ Z(H)=-5.000  Z(p)=-4.000
+[restart] seed=98  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=99  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=100  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=101  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=102  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=103  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=104  targets: Z(H)=-5.000, Z(p)=-4.000
+[restart] seed=105  targets: Z(H)=-5.000, Z(p)=-4.000
+[1/12] epochs complete | best_cost=2.79425 | epoch_cost=2.79425 | elapsed=13.2s
+[1/12] epochs complete | best_cost=3.0474 | epoch_cost=3.0474 | elapsed=13.2s
+[1/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=13.2s
+[1/12] epochs complete | best_cost=3.0474 | epoch_cost=3.0474 | elapsed=13.2s
+[1/12] epochs complete | best_cost=2.91343 | epoch_cost=2.91343 | elapsed=13.3s
+[1/12] epochs complete | best_cost=3.17211 | epoch_cost=3.17211 | elapsed=13.3s
+[1/12] epochs complete | best_cost=3.0474 | epoch_cost=3.0474 | elapsed=13.3s
+[1/12] epochs complete | best_cost=3.17211 | epoch_cost=3.17211 | elapsed=13.5s
+[2/12] epochs complete | best_cost=3.0474 | epoch_cost=3.0474 | elapsed=26.3s
+[2/12] epochs complete | best_cost=2.79425 | epoch_cost=2.79425 | elapsed=26.3s
+[2/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=26.4s
+[2/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=26.4s
+[2/12] epochs complete | best_cost=2.91343 | epoch_cost=2.91343 | elapsed=26.5s
+[2/12] epochs complete | best_cost=3.17211 | epoch_cost=3.17211 | elapsed=26.5s
+[2/12] epochs complete | best_cost=3.0474 | epoch_cost=3.0474 | elapsed=26.7s
+[2/12] epochs complete | best_cost=3.17211 | epoch_cost=3.17211 | elapsed=27.0s
+[3/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=39.4s
+[3/12] epochs complete | best_cost=2.79425 | epoch_cost=2.79425 | elapsed=39.4s
+[3/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=39.6s
+[3/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=39.7s
+[3/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=39.7s
+[3/12] epochs complete | best_cost=2.79425 | epoch_cost=2.79425 | elapsed=39.8s
+[3/12] epochs complete | best_cost=3.0474 | epoch_cost=3.0474 | elapsed=40.0s
+[3/12] epochs complete | best_cost=2.91343 | epoch_cost=2.91343 | elapsed=40.4s
+[4/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=52.5s
+[4/12] epochs complete | best_cost=2.79425 | epoch_cost=2.79425 | elapsed=52.6s
+[4/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=52.8s
+[4/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=52.9s
+[4/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=52.9s
+[4/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=52.9s
+[4/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=53.3s
+[4/12] epochs complete | best_cost=2.91343 | epoch_cost=2.91343 | elapsed=53.8s
+[5/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=65.5s
+[5/12] epochs complete | best_cost=2.79425 | epoch_cost=2.79425 | elapsed=65.7s
+[5/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=66.0s
+[5/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=66.1s
+[5/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=66.1s
+[5/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=66.1s
+[5/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=66.7s
+[5/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=67.3s
+[6/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=78.7s
+[6/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=78.8s
+[6/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=79.2s
+[6/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=79.3s
+[6/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=79.3s
+[6/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=79.4s
+[6/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=80.0s
+[6/12] epochs complete | best_cost=2.80383 | epoch_cost=2.80383 | elapsed=80.8s
+[7/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=91.8s
+[7/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=91.9s
+[7/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=92.4s
+[7/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=92.5s
+[7/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=92.5s
+[7/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=92.6s
+[7/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=93.4s
+[7/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=94.2s
+[8/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=104.9s
+[8/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=105.1s
+[8/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=105.7s
+[8/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=105.7s
+[8/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=105.7s
+[8/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=105.8s
+[8/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=106.7s
+[8/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=107.7s
+[9/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=118.0s
+[9/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=118.2s
+[9/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=118.9s
+[9/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=118.9s
+[9/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=118.9s
+[9/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=119.1s
+[9/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=120.0s
+[9/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=121.2s
+[10/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=131.1s
+[10/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=131.3s
+[10/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=132.1s
+[10/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=132.2s
+[10/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=132.2s
+[10/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=132.3s
+[10/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=133.4s
+[10/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=134.6s
+[11/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=144.3s
+[11/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=144.5s
+[11/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=145.4s
+[11/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=145.4s
+[11/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=145.4s
+[11/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=145.5s
+[11/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=146.8s
+[11/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=148.1s
+[12/12] epochs complete | best_cost=2.63276 | epoch_cost=2.63276 | elapsed=157.4s
+[12/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=157.7s
+[12/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=158.6s
+[12/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=158.7s
+[12/12] epochs complete | best_cost=2.71976 | epoch_cost=2.71976 | elapsed=158.7s
+[12/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=158.8s
+[12/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=160.2s
+[12/12] epochs complete | best_cost=2.58897 | epoch_cost=2.58897 | elapsed=161.6s
+[best] seed=104  Z(H)=-3.196  Z(p)=-2.612  final_cost=2.58897

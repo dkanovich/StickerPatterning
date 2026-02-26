@@ -1,0 +1,490 @@
+Most-common solution (Z(H), Z(P)) pairs with exemplar sequences
+================================================================
+Searched folders : results
+Total JSON files : 252
+Valid solutions  : 252
+Skipped (I/O)    : 0
+Skipped (missing): 0
+Skipped (NaN)    : 0
+Binning (decimals): 2
+
+Rank    Count    Share    ZH_sol    ZP_sol     best_cost
+----------------------------------------------------------------------
+   1       15     6.0%      0.71      2.71     0.0836228
+      exemplar_from_target: ZH_target=1.00, ZP_target=3.00
+      exemplar_sequence   : XXSSXXXXSSXXXXXSSXXXXXXSSXXXXXXSSXXXXXXSSXXXXXXSSXXXXSSXXXXSSXXXXXSSXX
+
+   2        9     3.6%     -2.48      4.48      0.249288
+      exemplar_from_target: ZH_target=-2.00, ZP_target=5.00
+      exemplar_sequence   : XXSSSXXXXXSSSXXXXXXXXXXXXXXXXXXSSXXXXXXSSSXXXXSSSXXXXXXSSSXXXXSSSXXXXX
+
+   3        8     3.2%     -1.41      3.89     0.0881856
+      exemplar_from_target: ZH_target=-1.00, ZP_target=4.00
+      exemplar_sequence   : XXSSSXXXXXXSSSXXXXXSSSXXXXXSSXXXXXXXXXXSSSXXXXXSSXXXXXXSSXXXXXXSSXXXXX
+
+   4        7     2.8%     -5.84      0.93     0.0146915
+      exemplar_from_target: ZH_target=-6.00, ZP_target=1.00
+      exemplar_sequence   : SSSSSSXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSSS
+
+   5        7     2.8%     -0.34      3.30      0.303399
+      exemplar_from_target: ZH_target=0.00, ZP_target=4.00
+      exemplar_sequence   : XXSSSXXXXXXSSXXXXXXSSXXXXXXSSXXXXXXSSXXXXXXSSXXXXXXSSSXXXXXSSXXXXXSSXX
+
+   6        6     2.4%     -5.41      0.34      0.232651
+      exemplar_from_target: ZH_target=-6.00, ZP_target=0.00
+      exemplar_sequence   : SSSSSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSXSXSSS
+
+   7        6     2.4%     -6.71      2.12     0.0501543
+      exemplar_from_target: ZH_target=-7.00, ZP_target=2.00
+      exemplar_sequence   : SSSSSSSSSXSXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSS
+
+   8        6     2.4%      2.10      1.52      0.520078
+      exemplar_from_target: ZH_target=3.00, ZP_target=2.00
+      exemplar_sequence   : SSXXXXSSXXXXSXXXXSSXXXXSSXXXXSSXXXXSXXXXSXXXXSSXXXXXSXXXXSSXXXXXSSXXXX
+
+   9        5     2.0%     -6.27      1.52      0.401571
+      exemplar_from_target: ZH_target=-7.00, ZP_target=1.00
+      exemplar_sequence   : SSSSSSSSSXSXSXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXS
+
+  10        5     2.0%     -4.98     -0.25     0.0310605
+      exemplar_from_target: ZH_target=-5.00, ZP_target=0.00
+      exemplar_sequence   : SSSSXSXSXSXSXSXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSSS
+
+  11        5     2.0%     -7.14      2.71      0.622322
+      exemplar_from_target: ZH_target=-8.00, ZP_target=2.00
+      exemplar_sequence   : SSSSSSSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSSSSS
+
+  12        5     2.0%     -3.69      5.07      0.671693
+      exemplar_from_target: ZH_target=-3.00, ZP_target=6.00
+      exemplar_sequence   : XXSSSXXXXXXXXXXXXXXXXXXSSSXXXXSSSSXXXXXXXXSSSSXXXXXXXXSSSXXXXXSSSXXXXX
+
+  13        5     2.0%     -4.55     -0.84      0.115563
+      exemplar_from_target: ZH_target=-5.00, ZP_target=-1.00
+      exemplar_sequence   : SSSSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSXSXSXSXSXSXSXSS
+
+  14        5     2.0%      1.41      2.12      0.567154
+      exemplar_from_target: ZH_target=2.00, ZP_target=3.00
+      exemplar_sequence   : XXSSXXXXSSXXXXXSSXXXXSXXXXXSSXXXXXXSSXXXXSSXXXXSSXXXXXSXXXXSSXXXXXSSXX
+
+  15        4     1.6%     -8.46      4.48      0.258912
+      exemplar_from_target: ZH_target=-9.00, ZP_target=4.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSSSSSSSSSSSSSS
+
+  16        4     1.6%     -7.57      3.30      0.137449
+      exemplar_from_target: ZH_target=-8.00, ZP_target=3.00
+      exemplar_sequence   : SSSSSSXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSSSSSSS
+
+  17        4     1.6%    -10.95      8.03    0.00183204
+      exemplar_from_target: ZH_target=-11.00, ZP_target=8.00
+      exemplar_sequence   : XXXXXXXXXXXSSSSSSSSSSSSSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  18        4     1.6%     -4.98      5.66       1.37518
+      exemplar_from_target: ZH_target=-4.00, ZP_target=7.00
+      exemplar_sequence   : XXSSSSXXXXSSSSXXXXXXXXSSSSXXXXXXXXXXXXXXXXSSSSXXXXSSSSXXXXXXXXXXXXXXXX
+
+  19        4     1.6%     -4.12     -1.43       0.55365
+      exemplar_from_target: ZH_target=-5.00, ZP_target=-2.00
+      exemplar_sequence   : SSSSXSXSXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSXSXS
+
+  20        4     1.6%     -6.35      6.25       0.33922
+      exemplar_from_target: ZH_target=-6.00, ZP_target=7.00
+      exemplar_sequence   : XSSSSXXXXXXXXXXXXXXXXXXXXSSSSXXXXXXXXXSSSSSSSSXXXXXXXXXXXXSSSSXXXXXXXX
+
+  21        4     1.6%     -7.70      6.84      0.255643
+      exemplar_from_target: ZH_target=-7.00, ZP_target=7.00
+      exemplar_sequence   : XSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXSSSSSSSSXXXXXXXXXXXXXXXXXXXXSSSSXXXXX
+
+  22        4     1.6%      2.61      0.93     0.0791626
+      exemplar_from_target: ZH_target=3.00, ZP_target=1.00
+      exemplar_sequence   : XSSXXXSSXXXXSSXXXXSSXXXXSXXXXSXXXXSSXXXXSXXXXSXXXXSSXXXXSXXXXSXXXXSSXX
+
+  23        4     1.6%      3.77     -3.20     0.0475428
+      exemplar_from_target: ZH_target=4.00, ZP_target=-3.00
+      exemplar_sequence   : XXXSXXXSXXXSXXSXXSXXXSXXSXXSXXXSXXXSXSXXXSXXSXXXSXXXSXXXSXXSXXXSXSXXXS
+
+  24        3     1.2%     -8.02      3.89      0.879685
+      exemplar_from_target: ZH_target=-9.00, ZP_target=3.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSSSSSSSSSSSSS
+
+  25        3     1.2%     -2.77     -3.20     0.0462065
+      exemplar_from_target: ZH_target=-3.00, ZP_target=-3.00
+      exemplar_sequence   : SXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSXSXSXSXSXSXSXS
+
+  26        3     1.2%     -3.62     -2.02     0.0735078
+      exemplar_from_target: ZH_target=-4.00, ZP_target=-2.00
+      exemplar_sequence   : SSSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSXSXSXSXSXSXSXSXSXS
+
+  27        3     1.2%     -9.05      7.44      0.160622
+      exemplar_from_target: ZH_target=-9.00, ZP_target=8.00
+      exemplar_sequence   : XSSSSSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSSSSSSSXXXXX
+
+  28        2     0.8%     -1.00     -3.20     0.0207154
+      exemplar_from_target: ZH_target=-1.00, ZP_target=-3.00
+      exemplar_sequence   : XXXSXSXSXSXSXSXSXSXSXSXSXSXSXSXSXSXXXXXXXSXXXSXXXXXXXXXXXXXXXXXXXXXSXS
+
+  29        2     0.8%     -8.00      3.89    0.00616006
+      exemplar_from_target: ZH_target=-8.00, ZP_target=4.00
+      exemplar_sequence   : SSSSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSSSSSSSSSS
+
+  30        2     0.8%     -8.91      5.07    0.00684824
+      exemplar_from_target: ZH_target=-9.00, ZP_target=5.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSSSSSSSSSSSSSSS
+
+  31        2     0.8%     -9.35      5.66      0.429538
+      exemplar_from_target: ZH_target=-10.00, ZP_target=5.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSSSSSSSSSSSSSSSS
+
+  32        2     0.8%    -10.40      8.03     0.0786867
+      exemplar_from_target: ZH_target=-10.00, ZP_target=8.00
+      exemplar_sequence   : SSSSSSSSSSSSSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  33        2     0.8%     -9.80      6.25         1.504
+      exemplar_from_target: ZH_target=-11.00, ZP_target=5.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSSSSSSSSSSSSSSSSS
+
+  34        2     0.8%    -10.59      7.44      0.176782
+      exemplar_from_target: ZH_target=-11.00, ZP_target=7.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXXXSXSSSSSSSSSSSSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  35        2     0.8%     -2.00     -3.20     0.0207221
+      exemplar_from_target: ZH_target=-2.00, ZP_target=-3.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXSXXXSXSXSXSXSXSXSXSXSXXSXSXSXSXSXSXSXSXSXSXXXXXXXXXXXX
+
+  36        2     0.8%     -3.20     -2.61      0.397924
+      exemplar_from_target: ZH_target=-4.00, ZP_target=-3.00
+      exemplar_sequence   : SSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSXSXSXSXSXSXSXSXSXSXS
+
+  37        2     0.8%     -4.00      5.07    0.00252731
+      exemplar_from_target: ZH_target=-4.00, ZP_target=5.00
+      exemplar_sequence   : XXXSSXXXXXXXXXXXXXXXSSSSSXXXXSSSSXXXXXXXXXXXXXXXXXXXSSSXXXXXSSSXXXSSSX
+
+  38        2     0.8%     -5.00      5.66     0.0570742
+      exemplar_from_target: ZH_target=-5.00, ZP_target=6.00
+      exemplar_sequence   : XXSSSSXXXXXXXXXXXXXXXXXXSSSSXXXXXXSSSSXXXXXXXXSSSSXXXXXXXXXXXXSSSSXXXX
+
+  39        2     0.8%      0.00     -3.20     0.0207153
+      exemplar_from_target: ZH_target=0.00, ZP_target=-3.00
+      exemplar_sequence   : SXXXXXXXXXSXSXSXSXXSXXXXSXXSXSXXSXSXSXXXXXXXXXXXXXSXSXSXXSXSXXXXXSXSXS
+
+  40        2     0.8%      1.00     -3.20     0.0207153
+      exemplar_from_target: ZH_target=1.00, ZP_target=-3.00
+      exemplar_sequence   : SXXSXSXSXSXXXXXXXSXXXXXSXSXXXXSXSXSXXXXSXXXXSXSXXXXXXXXXSXXXSXXSXSXSXS
+
+  41        2     0.8%      2.00     -3.20     0.0207153
+      exemplar_from_target: ZH_target=2.00, ZP_target=-3.00
+      exemplar_sequence   : SXXSXSXXXXSXSXSXXSXXSXSXXXXXSXXXXSXXXXXSXXSXXXSXXXXSXSXXXXSXXXXXXSXSXS
+
+  42        2     0.8%      3.00     -3.20     0.0207153
+      exemplar_from_target: ZH_target=3.00, ZP_target=-3.00
+      exemplar_sequence   : SXXSXXXSXXSXXXSXXXXXXSXXXSXXSXXXSXSXXXXSXXSXXXXSXSXXSXXSXXXSXXSXXSXXXS
+
+  43        2     0.8%      3.56     -0.84      0.109728
+      exemplar_from_target: ZH_target=4.00, ZP_target=-1.00
+      exemplar_sequence   : SXXXSSXXXSSXXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXXSXXXSSXXXSSXXX
+
+  44        2     0.8%      3.77     -2.02     0.0270576
+      exemplar_from_target: ZH_target=4.00, ZP_target=-2.00
+      exemplar_sequence   : XSXXXSXXXSXXXSXXSXXXSXXXSXXXSSXXXSXXXSSXXXSXXXSXXSXXXSXXXSXXSXXXSXXXSX
+
+  45        2     0.8%      3.24     -0.25      0.318041
+      exemplar_from_target: ZH_target=4.00, ZP_target=0.00
+      exemplar_sequence   : XXSXXXSSXXXXSXXXXSXXXXSSXXXSSXXXSXXXXSXXXSXXXXSSXXXSSXXXSXXXSXXXSXXXSX
+
+  46        1     0.4%     -1.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=-1.00, ZP_target=-1.00
+      exemplar_sequence   : SXXSXSXSXXXXXXXXXXXXXXSXXXXXXXXSXXXXXXXSXXSXSSXSXXSSXSSXSXXXXSXSSXXXXS
+
+  47        1     0.4%     -1.00     -2.02   0.000230125
+      exemplar_from_target: ZH_target=-1.00, ZP_target=-2.00
+      exemplar_sequence   : SSSXSXXXXXXXXXXXXXXXXXXSXXSXXXXSXSXXXXXSXSXXSXSXSXSXXXSXSXXXXXXSXSXSXS
+
+  48        1     0.4%     -1.00     -0.25     0.0308304
+      exemplar_from_target: ZH_target=-1.00, ZP_target=0.00
+      exemplar_sequence   : SSXXSSXXXXSXXXXXXXSSXSXXXXXXXXSXSXSXXSXSSSXXSXXXXXXXXSXSXXXXXXXXXXSXXS
+
+  49        1     0.4%     -1.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=-1.00, ZP_target=1.00
+      exemplar_sequence   : XXSSXXXXXXXXSXSXXXXXXXXXSSXSXXSXXSSSXXXXXXXXXXSXXSXSSXXSSSXXXSXXSXXXXX
+
+  50        1     0.4%     -1.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=-1.00, ZP_target=2.00
+      exemplar_sequence   : XXSSXXXXXSXXSSSXXXSSXXSSXXXXSXXXSSXSSXXSSSXXXXXXXXXXXXSXXXXXXXXSXXXXXX
+
+  51        1     0.4%     -1.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-1.00, ZP_target=3.00
+      exemplar_sequence   : XXSXXXXSSSXXXSSXXXXXXSSXXXSSXSSXXXXXXSSSXXSXXXXXXSSXXXXXXXXXXXXXSSXXXX
+
+  52        1     0.4%     -9.79      6.25     0.0535251
+      exemplar_from_target: ZH_target=-10.00, ZP_target=6.00
+      exemplar_sequence   : XXXXXXXSXSXSSSSSSSSSSSSSSSSSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  53        1     0.4%    -10.01      6.84     0.0122266
+      exemplar_from_target: ZH_target=-10.00, ZP_target=7.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSSSSSSSSSSSXSSSSSSSXSXXXXXX
+
+  54        1     0.4%     -9.34      5.66       2.75717
+      exemplar_from_target: ZH_target=-11.00, ZP_target=4.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXXXXSXSXSSSSSSSSSSSSSSSSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  55        1     0.4%    -10.24      6.84      0.641881
+      exemplar_from_target: ZH_target=-11.00, ZP_target=6.00
+      exemplar_sequence   : XXXXSXSSSSSSSSSSSSSSSSSSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  56        1     0.4%     -8.89      5.07       6.98149
+      exemplar_from_target: ZH_target=-12.00, ZP_target=3.00
+      exemplar_sequence   : SXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSSSSSSSSSSSSSSS
+
+  57        1     0.4%    -10.25      6.84       1.88875
+      exemplar_from_target: ZH_target=-12.00, ZP_target=6.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSSSSSSSSSSSSSSSSSS
+
+  58        1     0.4%     -2.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=-2.00, ZP_target=-1.00
+      exemplar_sequence   : SXXXXXXXXXSXSXSXSXXXXXXSSXSSXXSXSXSSXSXSXXXXXXXXXXXXSXSXSXXXXXXXXXXXSS
+
+  59        1     0.4%     -2.00     -2.02   0.000230128
+      exemplar_from_target: ZH_target=-2.00, ZP_target=-2.00
+      exemplar_sequence   : SSXSXSXSXSXXXXXXXXXXXXXXSXSXXXXXXXXSSXSXXXXXXXXXXXXXSXSXSXSXSXSXSXSXXS
+
+  60        1     0.4%     -2.00     -0.25     0.0308304
+      exemplar_from_target: ZH_target=-2.00, ZP_target=0.00
+      exemplar_sequence   : XXSSXSXSSXSXSXSXSSXXXXSXXXXXXXXXXXXXSXXSXXXXXXXXXXXXXXXXXSXSXSXSSSXXXS
+
+  61        1     0.4%     -2.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=-2.00, ZP_target=1.00
+      exemplar_sequence   : XXXSXXXXXXXSXXXSXXSXSXSXXSXXXSXXXXXXXXXXXXXXXXSXSSSSXSSSSXXXXXXXSSXSXX
+
+  62        1     0.4%     -2.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=-2.00, ZP_target=2.00
+      exemplar_sequence   : XXXSXXSXXXXSXXXXXXXXXXXSSXSSXXSXSXXXXXXXSXXSXXXXXXXXXXXSSSXXXXXSSSSSSX
+
+  63        1     0.4%     -2.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-2.00, ZP_target=3.00
+      exemplar_sequence   : XXSXSXXXXXSXSSSXXXXXSSSSSXXXXXXSSXXXXXSXSSXXXXXXXSSXXXXXSSXXXXXXXXXXXX
+
+  64        1     0.4%     -2.00      3.89    0.00616003
+      exemplar_from_target: ZH_target=-2.00, ZP_target=4.00
+      exemplar_sequence   : XXSSSXXSSSSXXXXXXXSSXXXXXXSSXXXXSSXXXXXXXXXXSSXXXSSSXXXXXSSXXXXXXXXXXX
+
+  65        1     0.4%     -3.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=-3.00, ZP_target=-1.00
+      exemplar_sequence   : SXXSSXSXXSXXSXSSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXXSSXSXSSXSXS
+
+  66        1     0.4%     -3.00     -2.02   0.000230226
+      exemplar_from_target: ZH_target=-3.00, ZP_target=-2.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSXSXSXSSXSXSXSXSXSXXXSXSXSXSSXS
+
+  67        1     0.4%     -3.00     -0.25     0.0308304
+      exemplar_from_target: ZH_target=-3.00, ZP_target=0.00
+      exemplar_sequence   : SXSSSXSSXSSXSXSXXXXXSXSSXSXXXXXXXXXXXXXXXXSXXXXXSXSXXXXXXXXXXXXXXSXSXS
+
+  68        1     0.4%     -3.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=-3.00, ZP_target=1.00
+      exemplar_sequence   : XXSXXXXXSSSSSXSXSSXSXSSXXXXXXXXXXXSXXXXSXSSXXXXXXXXXXXXXXXXXXXXSXSXSXS
+
+  69        1     0.4%     -3.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=-3.00, ZP_target=2.00
+      exemplar_sequence   : SSXSXSSXSXXSXSSSXXXXXXXXXXSXXXXXXXXXSXXXXXXXSSSXXXXXXSXXXXXXXXXXXSSSSX
+
+  70        1     0.4%     -3.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-3.00, ZP_target=3.00
+      exemplar_sequence   : SSXXSSXXXXXXXXXXXXXSXXXSSSSXSSSXSXSSXXXXXXXXXXXXXXXSXXSSSXXXXSXXXXXXXX
+
+  71        1     0.4%     -3.00      3.89    0.00616003
+      exemplar_from_target: ZH_target=-3.00, ZP_target=4.00
+      exemplar_sequence   : SXXXXXSSSSSSXXXXXXXXSXXXXSSSXXXXXXXXXXXXSXXXXXXXXSSXXXXXSXXSSSSSXXXXXX
+
+  72        1     0.4%     -3.00      4.48      0.135174
+      exemplar_from_target: ZH_target=-3.00, ZP_target=5.00
+      exemplar_sequence   : XSXXXXXXXXXXXXSSSXXXXXXXXXXSSXXXXXXSSSSSXXXXSSSSXXXXXXSSXXXXXXSSSXXXXX
+
+  73        1     0.4%     -4.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=-4.00, ZP_target=-1.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXSXXSSSSXSSXSXSXSXSXSXSXSXSXSXSXSXSXSXXXXXXXXXXXXXXXXXX
+
+  74        1     0.4%     -4.00     -0.25     0.0308305
+      exemplar_from_target: ZH_target=-4.00, ZP_target=0.00
+      exemplar_sequence   : XXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSSXSSSSSXSXSXSXSXSX
+
+  75        1     0.4%     -4.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=-4.00, ZP_target=1.00
+      exemplar_sequence   : SSSXSSSXSXSXXXXXXXXXXSXXSXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXXSSSXXSSXSXSXS
+
+  76        1     0.4%     -4.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=-4.00, ZP_target=2.00
+      exemplar_sequence   : SXXSXXXSXSSXSSSXSXXXXXXXXXXXXXXXXXXXXXXSXXXXXXXXXXXXSXXXXXSSXXSSSSSXSS
+
+  77        1     0.4%     -4.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-4.00, ZP_target=3.00
+      exemplar_sequence   : XXXSXSSXXSSSSXSSXXXXXXXXXXXXXXSSSXSXXXXXXXXXXXXXXXSXXXXXXXXXXSSSSXSXSX
+
+  78        1     0.4%     -4.00      3.89    0.00616003
+      exemplar_from_target: ZH_target=-4.00, ZP_target=4.00
+      exemplar_sequence   : SXXXXSXSXXXXXXXXXXXXXXXXXXXXSSSXXXSSSSSSSXSSSXXXXXXSXXXXXXXXXXSSSXXXXX
+
+  79        1     0.4%     -5.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=-5.00, ZP_target=1.00
+      exemplar_sequence   : SSSSXSXSXSXSXXSSSSXSXXSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSS
+
+  80        1     0.4%     -5.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=-5.00, ZP_target=2.00
+      exemplar_sequence   : XSXXSSXXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSXSXXSXSXSSXSSSXSXSSSSS
+
+  81        1     0.4%     -5.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-5.00, ZP_target=3.00
+      exemplar_sequence   : XXXSSXSXSXSSSXSSXSSXSXXXXXXXXXXXXXXXXSSSSSSXXXXXXSXSXXXXXXXXXXXXXXXXXX
+
+  82        1     0.4%     -5.00      3.89    0.00616003
+      exemplar_from_target: ZH_target=-5.00, ZP_target=4.00
+      exemplar_sequence   : SXXSXXXXXXXXXXXSSSSSSSXXXXXXXXXXXSXXXXXSSSSSSXSXXXXXXXXXXXXXXXXXXSSXXS
+
+  83        1     0.4%     -5.00      5.07    0.00252731
+      exemplar_from_target: ZH_target=-5.00, ZP_target=5.00
+      exemplar_sequence   : XXSSSSSXXSSXXXXXXSSSSXXXXXXSSSSSSXXSSXXXXXXXXXXXXXXXXXSXXXXXXXXXXXXXXX
+
+  84        1     0.4%     -6.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=-6.00, ZP_target=2.00
+      exemplar_sequence   : SSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXXSSSSSSSXSXSXSSXSXSXSXSSXS
+
+  85        1     0.4%     -6.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-6.00, ZP_target=3.00
+      exemplar_sequence   : SSXSXSSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSXSXSSSSSSSSXXSX
+
+  86        1     0.4%     -6.00      3.89    0.00616003
+      exemplar_from_target: ZH_target=-6.00, ZP_target=4.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXXXXSXSSXXSXSSXSSSXSSXXXSSSSSSSSXXXXXXXXXXSXXXXXXXXXXXX
+
+  87        1     0.4%     -6.00      5.07    0.00252731
+      exemplar_from_target: ZH_target=-6.00, ZP_target=5.00
+      exemplar_sequence   : SSXXXSSSSSSXXXXXSSSXSSXXXXXXXXXXSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSS
+
+  88        1     0.4%     -6.00      5.66     0.0570742
+      exemplar_from_target: ZH_target=-6.00, ZP_target=6.00
+      exemplar_sequence   : XSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSSXXXXXSSXSSSSSSSSXXXXXXXXSSSXX
+
+  89        1     0.4%     -7.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=-7.00, ZP_target=3.00
+      exemplar_sequence   : SXSSSSSSSSSSXSXSXSXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSS
+
+  90        1     0.4%     -7.00      3.89    0.00616003
+      exemplar_from_target: ZH_target=-7.00, ZP_target=4.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSSSSSXSXSXSSSSXSSXSSXXSSXSSXXX
+
+  91        1     0.4%     -7.00      5.07    0.00252731
+      exemplar_from_target: ZH_target=-7.00, ZP_target=5.00
+      exemplar_sequence   : XXSSXSSSSSSSSSSSSXSXXXXXXXXXXXXXXXXXXXXXXXXSXXXSSXSSXXXXXXXXXXXXXXXXXX
+
+  92        1     0.4%     -7.00      6.25     0.0320519
+      exemplar_from_target: ZH_target=-7.00, ZP_target=6.00
+      exemplar_sequence   : XXXSSSSSSSSSSSSSXXXXXXXXXXXXXSSSXXXXXXXXXXXXXXXXXXXSXXXXXXXXXXXXXXXSSS
+
+  93        1     0.4%     -8.00      5.07    0.00252737
+      exemplar_from_target: ZH_target=-8.00, ZP_target=5.00
+      exemplar_sequence   : SXXXXXXXXXXXXXXSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSXSXSXSSSSSSSSSSSSS
+
+  94        1     0.4%     -8.00      6.25     0.0320519
+      exemplar_from_target: ZH_target=-8.00, ZP_target=6.00
+      exemplar_sequence   : XXXXXXXXSSSSSSSSSXXSSXXSXXXXXXXXXXXXXXXXXXXXXXXXXSSSSSSSSXXXXXXXXXXXXX
+
+  95        1     0.4%     -8.01      6.84     0.0121667
+      exemplar_from_target: ZH_target=-8.00, ZP_target=7.00
+      exemplar_sequence   : XSSSSSSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSXXXSSSSSXX
+
+  96        1     0.4%     -7.99      6.84      0.667944
+      exemplar_from_target: ZH_target=-8.00, ZP_target=8.00
+      exemplar_sequence   : XXXSSXXXXXXXXXXXXXXXXXXXXSSSXXXXXXXXXXXXXXXXXXXXXSSSSSSSSSSSSSSSXXXXXX
+
+  97        1     0.4%     -9.00      6.25     0.0320521
+      exemplar_from_target: ZH_target=-9.00, ZP_target=6.00
+      exemplar_sequence   : XXXXXXXXXXXXXXXXXXXXXXXXXXXXSSSXXSXSSSXSSSSSSSSSSSSSXXXXXXXXXXXXXXXXXX
+
+  98        1     0.4%     -9.00      6.84     0.0121321
+      exemplar_from_target: ZH_target=-9.00, ZP_target=7.00
+      exemplar_sequence   : XXXXXXXXXXSSSSSSSSSXXXSXXSSSSSSSSSSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+  99        1     0.4%     -0.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=0.00, ZP_target=-1.00
+      exemplar_sequence   : SSSXXSXSXXSXXXXXXXSXXSXXSXXXSSXSXSXXXXXXXXXXXSXXXSXXSXXXXSXXSSXXXXXXXS
+
+ 100        1     0.4%     -0.00     -2.02   0.000230125
+      exemplar_from_target: ZH_target=0.00, ZP_target=-2.00
+      exemplar_sequence   : SXSSXXSXSXXSXSXSXXXSXXSXXXXSXXSXXXXSXSXXXXXXXXXXXSSXXSXSXXXXXXXXXXXSXS
+
+ 101        1     0.4%     -0.00     -0.25     0.0308304
+      exemplar_from_target: ZH_target=0.00, ZP_target=0.00
+      exemplar_sequence   : XSSSXXXSSXXXXXXSXXXXXSXSXSXXXXXXXXXXXXSXXXXXXXSXXXSSXXXSXSXXSSXXXSXSXS
+
+ 102        1     0.4%     -0.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=0.00, ZP_target=1.00
+      exemplar_sequence   : SSXSXXXSSXXXSXXSSXXXXXXXXSSXXXXXXXXXXXXXSXXXSXSXXXXXXSSSXXXSXXSXXSSXXX
+
+ 103        1     0.4%     -0.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=0.00, ZP_target=2.00
+      exemplar_sequence   : SSSXXXXXSSSXXXSXXXXXSSSXXXXSXXXXSSSXXXSXXSXXXXXXXXXXSSXXXSXXXXXXSXXXXX
+
+ 104        1     0.4%      0.00      2.71     0.0429501
+      exemplar_from_target: ZH_target=0.00, ZP_target=3.00
+      exemplar_sequence   : XXXSSXXXXXXXXXSSXXXXXXXSXXXSSXXXXSSSXXXXXXSSXXXXSSSXXXXSSXXXSXXXSSXXXX
+
+ 105        1     0.4%      1.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=1.00, ZP_target=-1.00
+      exemplar_sequence   : XSSXSXXXXXXXXXSXSSSXXXSXXXSXXXXSXXXSXXSXSXSXSXXXXSXXXXXSXXSXXXXXXSSXXX
+
+ 106        1     0.4%      1.00     -2.02   0.000230125
+      exemplar_from_target: ZH_target=1.00, ZP_target=-2.00
+      exemplar_sequence   : SXXSXSXSXXXSXXXSXXXXXXXXSXSXXXXXSXXSXXSXXSXXXXXXSSXSSXXXXXXSXXSXXXXSXS
+
+ 107        1     0.4%      1.00     -0.25     0.0308304
+      exemplar_from_target: ZH_target=1.00, ZP_target=0.00
+      exemplar_sequence   : SXXXSXXSSXSXXXXXSXXXXXSXXXXSXXXXSSSXSXXXXXXSSSXXXXXXSXXXXSXSXSXXXXSXXX
+
+ 108        1     0.4%      1.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=1.00, ZP_target=1.00
+      exemplar_sequence   : XSSXXXSXXXXXSXXXXXXSSXXXSXXXXXXSSXXXXXXSSSXXXSXXSXXXXXXSXXSXXXSSSXXSXX
+
+ 109        1     0.4%      1.00      2.12    0.00671258
+      exemplar_from_target: ZH_target=1.00, ZP_target=2.00
+      exemplar_sequence   : XXSSXXXXSXXXXSSXXXXXSXXXXSSSXXXXSSXXXXXXXXXXSSXXXXXSSXXXXSSXXXSXXXXSSX
+
+ 110        1     0.4%      2.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=2.00, ZP_target=-1.00
+      exemplar_sequence   : XSSXXXSSXXXXSXXXXXSXSXSXSXXXSXXXXSXSSXXXSXXXSXXXXSSXXSXXXXXSXXXXXXSXXX
+
+ 111        1     0.4%      2.00     -2.02   0.000230125
+      exemplar_from_target: ZH_target=2.00, ZP_target=-2.00
+      exemplar_sequence   : SSXXXXSXSXXSSXXXXSXXXSXXSXSXXXXXXXSXXXXXSXXXXSXSXXXXSXXSXXXXSXXXSXSXSX
+
+ 112        1     0.4%      2.00     -0.25     0.0308304
+      exemplar_from_target: ZH_target=2.00, ZP_target=0.00
+      exemplar_sequence   : XXSSXXXSSXXXSXXXXXSXSSXXXSXXXXXSXXXXXSXXXXSXXXXXSSXXXXSXXXXSXXSXXSXXSS
+
+ 113        1     0.4%      2.00      0.93    0.00219285
+      exemplar_from_target: ZH_target=2.00, ZP_target=1.00
+      exemplar_sequence   : XSSXXXXSXXSXXXSSXXXXSSXXXXSSSXXXSSXXXXSXXXSXXXXXXXSXXXXSXXXXSSXXXXSXXX
+
+ 114        1     0.4%      2.00      1.52      0.112898
+      exemplar_from_target: ZH_target=2.00, ZP_target=2.00
+      exemplar_sequence   : XXSSXXXXSXXXXXXSSXXXXXSSXXXXSSXXXXSXXXXSSXXXXSXXXXSSXXXXSSXXXXSXXXXSSX
+
+ 115        1     0.4%      3.00     -0.84     0.0129023
+      exemplar_from_target: ZH_target=3.00, ZP_target=-1.00
+      exemplar_sequence   : XXSXXXXSXXXXSSXXXSSXXXXSXXXXSXSXXXSXSSXXXSXXXSSXXXSXXXXSXXXXSXXXSXXXSX
+
+ 116        1     0.4%      3.00     -2.02   0.000230132
+      exemplar_from_target: ZH_target=3.00, ZP_target=-2.00
+      exemplar_sequence   : XXSXXXXSXXSXXSXSSXXXSSXXXSXXXSXXSXSXXXXSXXXSXXXXSXXXSXSXXXXSXXXXSXXSXX
+
+ 117        1     0.4%      3.00     -0.25     0.0308305
+      exemplar_from_target: ZH_target=3.00, ZP_target=0.00
+      exemplar_sequence   : XSSXXXSXSXXXSXXXSSXXXXSXXXSXXXXSXXXXSXXXSSXXXXSXXXSSXXXXSXXXSSXXXXSXXX
+
+ 118        1     0.4%      2.92      0.34      0.794624
+      exemplar_from_target: ZH_target=4.00, ZP_target=1.00
+      exemplar_sequence   : XXXSSXXXSSXXXSXXXXSXXXXSSXXXSSXXXXSXXXXSXXXSSXXXXSXXXXSXXXXSSXXXSXXXXS
+
+ 119        1     0.4%      3.77     -1.43      0.851088
+      exemplar_from_target: ZH_target=5.00, ZP_target=-1.00
+      exemplar_sequence   : XSXXXSSXXXSXXXSXXXSSXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXSXXXSSXXXSXXXSX
+
+----------------------------------------------------------------------
+Total valid = 252 (100.0%)

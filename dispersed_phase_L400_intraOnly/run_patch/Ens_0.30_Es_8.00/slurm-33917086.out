@@ -1,0 +1,165 @@
+Current file is final_state_Run1.restart
+final_state_Run1.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is final_state_Run2.restart
+final_state_Run2.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is final_state_Run3.restart
+final_state_Run3.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is final_state_Run4.restart
+final_state_Run4.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is final_state_Run5.restart
+final_state_Run5.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_100000000.restart
+Run1_tp_100000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_150000000.restart
+Run1_tp_150000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_200000000.restart
+Run1_tp_200000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_250000000.restart
+Run1_tp_250000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_300000000.restart
+Run1_tp_300000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_350000000.restart
+Run1_tp_350000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_400000000.restart
+Run1_tp_400000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_450000000.restart
+Run1_tp_450000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_500000000.restart
+Run1_tp_500000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run1_tp_50000000.restart
+Run1_tp_50000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_100000000.restart
+Run2_tp_100000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_150000000.restart
+Run2_tp_150000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_200000000.restart
+Run2_tp_200000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_250000000.restart
+Run2_tp_250000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_300000000.restart
+Run2_tp_300000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_350000000.restart
+Run2_tp_350000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_400000000.restart
+Run2_tp_400000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_450000000.restart
+Run2_tp_450000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_500000000.restart
+Run2_tp_500000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run2_tp_50000000.restart
+Run2_tp_50000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_100000000.restart
+Run3_tp_100000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_150000000.restart
+Run3_tp_150000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_200000000.restart
+Run3_tp_200000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_250000000.restart
+Run3_tp_250000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_300000000.restart
+Run3_tp_300000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_350000000.restart
+Run3_tp_350000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_400000000.restart
+Run3_tp_400000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_450000000.restart
+Run3_tp_450000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_500000000.restart
+Run3_tp_500000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run3_tp_50000000.restart
+Run3_tp_50000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_100000000.restart
+Run4_tp_100000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_150000000.restart
+Run4_tp_150000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_200000000.restart
+Run4_tp_200000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_250000000.restart
+Run4_tp_250000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_300000000.restart
+Run4_tp_300000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_350000000.restart
+Run4_tp_350000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_400000000.restart
+Run4_tp_400000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_450000000.restart
+Run4_tp_450000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_500000000.restart
+Run4_tp_500000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run4_tp_50000000.restart
+Run4_tp_50000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_100000000.restart
+Run5_tp_100000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_150000000.restart
+Run5_tp_150000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_200000000.restart
+Run5_tp_200000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_250000000.restart
+Run5_tp_250000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_300000000.restart
+Run5_tp_300000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_350000000.restart
+Run5_tp_350000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_400000000.restart
+Run5_tp_400000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_450000000.restart
+Run5_tp_450000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_500000000.restart
+Run5_tp_500000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.
+Current file is Run5_tp_50000000.restart
+Run5_tp_50000000.DATA
+srun: fatal: SLURM_MEM_PER_CPU, SLURM_MEM_PER_GPU, and SLURM_MEM_PER_NODE are mutually exclusive.

@@ -1,0 +1,15 @@
+tolerance  10
+seed             70824
+
+filetype xyz
+output  IC_tmp.xyz
+
+structure polyA_n1_mono.xyz
+	number 100
+	inside box  -300.0  -300.0 -300.0  300.0 300.0 300.0
+end structure
+
+structure polyB_n1_mono.xyz
+	number 100
+	inside box  -300.0  -300.0 -300.0  300.0 300.0 300.0
+end structure

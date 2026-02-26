@@ -1,0 +1,4 @@
+LAMMPS (5 Jun 2019)
+Reading restart file ...
+ERROR on proc 0: Cannot open restart file Run3_tp_240000000.restart (../read_restart.cpp:145)
+Last command: read_restart Run3_tp_240000000.restart

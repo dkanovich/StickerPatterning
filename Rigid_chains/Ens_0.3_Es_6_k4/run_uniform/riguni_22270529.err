@@ -1,0 +1,4 @@
+slurmstepd: error: *** STEP 22270529.0 ON holy8a24108 CANCELLED AT 2025-07-02T21:31:16 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 22270529 ON holy8a24108 CANCELLED AT 2025-07-02T21:31:16 DUE TO TIME LIMIT ***
+srun: got SIGCONT
+srun: forcing job termination

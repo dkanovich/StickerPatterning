@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/n/home00/dkanovich/2024/H_pIdx/ZHP_N70_S20_parallel/seq_hp_opt.py", line 18, in <module>
+    import numpy as np
+  File "/n/home00/dkanovich/.conda/envs/H_pIdx/lib/python3.10/site-packages/numpy/__init__.py", line 92, in <module>
+    from ._globals import _NoValue, _CopyMode
+  File "/n/home00/dkanovich/.conda/envs/H_pIdx/lib/python3.10/site-packages/numpy/_globals.py", line 20, in <module>
+    from ._utils import set_module as _set_module
+ModuleNotFoundError: No module named 'numpy._utils'
+srun: error: holy7c16201: task 0: Exited with exit code 1
