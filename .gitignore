@@ -1,0 +1,4 @@
+# simulation trajectories / large outputs
+*.dump
+traj_*.dump
+*traj*.dump
