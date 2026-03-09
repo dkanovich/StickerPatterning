@@ -17,9 +17,9 @@ Due to repository size limits:
 
 The repository contains:
 
-- final simulation snapshots (`*.DATA`)
-- thermodynamic outputs (`Thermo_*`)
-- bond statistics (`BondData_*`)
+- simulation snapshots (`*.DATA`)
+- thermodynamic outputs (`Thermo_*.dat`)
+- bond statistics (`BondData_*.dat`)
 - analysis scripts
 - example notebooks demonstrating figure generation.
 
@@ -186,7 +186,7 @@ These distributions are **averaged across five replicate simulations** and compa
 
 # Additional analysis tools
 
-Additional data-analysis helpers as well as extensive documentation of simulation setup and outputs are available through the **CASPULE** toolkit:
+Additional data-analysis helpers as well as extensive documentation of simulation setup and outputs are available through the **CASPULE** (**C**ondensate **A**nalysis of **S**ticker Spacer **P**olymers **U**sing the **L**ammps **E**ngine) toolkit:
 
 https://caspule.github.io/caspule/
 
